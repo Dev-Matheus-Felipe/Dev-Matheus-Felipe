@@ -1,27 +1,41 @@
-## Olá meu nome é Matheus Felipe, e sou Desenvolvedor Web!
-<div style="display: inline_block"><br>
-  <h3>Tecnologias que domínio:</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"  align="center"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"  align="center" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" align="center" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<h2 align="left">Hi there 👋 | I am Matheus Felipe</h2>
 
-</div>
+<p>
+I am a Brazilian frontend web developer 😎 and computer science student 👨🏻‍🎓 who loves learning new things and building web applications. 
+Currently, I'm working to improve my English and programming skills.  
+Some of my projects are available <a href="https://github.com/Dev-Matheus-Felipe?tab=repositories">here</a>.
+</p>
 
-##
+##### 🌱 Currently honing Next.Js and English.
+##### ⚡ Specialized in Next.Js and Typescript.
+##### 🔍 Looking for frontend opportunities
+#### 👻 Fun fact: I like white monsters more than even sleeping
+
+---
+
+### Top Langagues
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 <div> 
-  <h3>Clique e confira minhas redes sociais!</h3>
+  <h3>Check out my social media</h3>
   <a href="https://contate.me/matheus_felipe_29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
   <a href="https://www.instagram.com/matheus_felipe29_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:matheusfelipebom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-felipe-22b263255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
-  ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Matheus-Felipe&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 📊 My GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev_Matheus_Felipe&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Matheus-Felipe&show_icons=true&theme=radical)
+<p>ASDAD</p>
