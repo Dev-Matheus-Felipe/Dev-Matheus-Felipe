@@ -33,9 +33,5 @@ Some of my projects are available <a href="https://github.com/Dev-Matheus-Felipe
   <a href="https://www.linkedin.com/in/matheus-felipe-22b263255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
----
 
-## 📊 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev_Matheus_Felipe&show_icons=true&bg_color=00000000)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Matheus-Felipe&show_icons=true&theme=radical)
-<p>ASDAD</p>
+
