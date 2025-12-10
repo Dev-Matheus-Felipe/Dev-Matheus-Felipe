@@ -1,15 +1,14 @@
 <h2 align="left">Hi there 👋 | I am Matheus Felipe</h2>
 
 <p>
-I am a Brazilian frontend web developer 😎 and computer science student 👨🏻‍🎓 who loves learning new things and building web applications. 
-Currently, I'm working to improve my English and programming skills.  
+I’m a 19-year-old Brazilian frontend web developer 😎 and computer science student 👨🏻‍🎓 who loves learning new things and building web applications, currently i'm working to improve my English and programming skills.  
 Some of my projects are available <a href="https://github.com/Dev-Matheus-Felipe?tab=repositories">here</a>.
 </p>
 
 ##### 🌱 Currently honing Next.Js and English.
 ##### ⚡ Specialized in Next.Js and Typescript.
-##### 🔍 Looking for frontend opportunities
-#### 👻 Fun fact: I like white monsters more than even sleeping
+##### 🔍 Looking for web development opportunities.
+##### 👻 Fun fact: 2 white monsters at once is my current limit otherwise something bad will happen.
 
 ---
 
