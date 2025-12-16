@@ -5,10 +5,10 @@ I’m a 19-year-old Brazilian frontend web developer 😎 and computer science s
 Some of my projects are available <a href="https://github.com/Dev-Matheus-Felipe?tab=repositories">here</a>.
 </p>
 
-##### 🌱 Currently honing Next.Js and English.
+##### 🌱 Trying to build everthing with web development frameworks.
 ##### ⚡ Specialized in Next.Js and Typescript.
 ##### 🔍 Looking for web development opportunities.
-##### 👻 Fun fact: 2 white monsters at once is my current limit otherwise something bad will happen.
+##### 👻 Mental note: don't drink more than 2 white monsters at once.
 
 ---
 
@@ -21,16 +21,6 @@ Some of my projects are available <a href="https://github.com/Dev-Matheus-Felipe
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-<div> 
-  <h3>Check out my social media</h3>
-  <a href="https://contate.me/matheus_felipe_29" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"></a>
-  <a href="https://www.instagram.com/matheus_felipe29_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusfelipebom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-felipe-22b263255/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-</div>
 
 
 
