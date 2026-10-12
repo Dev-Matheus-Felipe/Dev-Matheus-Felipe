@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋 | I am Matheus Felipe</h2>
 
 <p>
-I’m a 19-year-old Brazilian frontend web developer 😎 and computer science student 👨🏻‍🎓 who loves learning new things and building web applications, currently i'm working to improve my English and programming skills.  
+I’m a 19-year-old Brazilian full stack web developer 😎 and computer science student 👨🏻‍🎓 who loves learning new things and building web applications, currently i'm taking my first steps in French and improving my programming skills.  
 Some of my projects are available <a href="https://github.com/Dev-Matheus-Felipe?tab=repositories">here</a>.
 </p>
 
